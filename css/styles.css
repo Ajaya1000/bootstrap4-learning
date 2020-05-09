@@ -9,7 +9,7 @@
     min-height: 400px;
 }
 .footer{
-    background-color: beige;
+    background-color :#c5f1e8c4;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -18,5 +18,5 @@ body{
     z-index: 0;
 }
 .navbar-dark{
-    background-color: coral;
+    background-color: darkslateblue;
 }
